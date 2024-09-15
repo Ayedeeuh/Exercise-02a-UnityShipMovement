@@ -1,1 +1,2 @@
-# Exercise02a-UnityShipMovement
+My username is AyeDeeUh
+My name is Adia Holt
